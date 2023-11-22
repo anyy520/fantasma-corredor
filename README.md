@@ -1,1 +1,1 @@
-# fantasma-corredor jogo de referência para criação 
+# jogo-fantasma-corredor-
